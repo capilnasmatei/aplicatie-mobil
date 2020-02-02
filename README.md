@@ -8,7 +8,7 @@ Autor: Capilnas Matei-Vasile
 
 Descriere: Aplicatia se ocupa cu gestiunea studentilor. Contine o sectiune de login/register, un dashboard cu numele studentilor si anul in care acestia sunt, se poate accesa fiecare student pentru a-i fi modificate datele si se pot adauga un student nou.
 
-Build: pentru web. E nevoie de instalarea vue.js-ului si initializarea unui server local.
+Build: Pentru web. E nevoie de instalarea vue.js-ului si initializarea unui server local.
 
 Foloseste: firebase database, vue.js, CSS
 
