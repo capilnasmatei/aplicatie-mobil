@@ -14,7 +14,7 @@ Foloseste: firebase database, vue.js, CSS
 
 ![](img-aplicatii/stud-manager.PNG)
 
-### Folderul "aplicatie-mobil":
+### Folderul "player":
 
 Contine o aplicatie facuta in HTML, CSS si JS
 
