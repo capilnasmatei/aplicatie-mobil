@@ -1,4 +1,4 @@
-### Acest folder:
+### Folderul "Stud Manager":
 
 Contine o aplicatie de management a studentilor creata cu framework-ul Vue.js. Deoarece github pages permite doar afisarea paginilor statice aplicatia nu se poate deschide decat de pe localhost sau daca este incarcata pe un site de host (ex:  DigitalOcean).
 
