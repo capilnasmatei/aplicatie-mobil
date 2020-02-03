@@ -28,7 +28,7 @@ Build: pentru web
 
 Foloseste: HTML5, CSS, JS, jQuery
 
-![](img-aplicatii/player.PNG)
+![](img-aplicatii/player.png)
 
 
 
