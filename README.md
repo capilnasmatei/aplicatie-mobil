@@ -1,4 +1,4 @@
-### Folderul "tabelstudenti":
+### Acest folder:
 
 Contine o aplicatie de management a studentilor creata cu framework-ul Vue.js. Deoarece github pages permite doar afisarea paginilor statice aplicatia nu se poate deschide decat de pe localhost sau daca este incarcata pe un site de host (ex:  DigitalOcean).
 
@@ -14,28 +14,7 @@ Foloseste: firebase database, vue.js, CSS
 
 ![](img-aplicatii/tabel.PNG)
 
-### Folderul "player":
-
-Contine o aplicatie facuta in HTML, CSS si JS
-
-Nume proiect: Music Player
-
-Autor: Capilnas Matei-Vasile
-
-Descriere: Un player muzical ce contine 12 melodii cu functia de stop, play, pause, prev, next si de modificare a volumului
-
-Build: pentru web
-
-Foloseste: HTML5, CSS, JS, jQuery
-
-
-![](img-aplicatii/player.png)
-
 ### Materiale ajutatoare
-
-https://codepen.io/hossein_mhg/pen/eYYKJXd - inspiratie legata de design si cateva coduri ce CSS
-
-https://javascript30.com/ - partea legata de progrss bar-ul melodiei 
 
 https://www.youtube.com/watch?v=5lVQgZzLMHc - punct de plecare pentru aplicatia creata in Vue.js
 
