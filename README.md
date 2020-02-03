@@ -12,7 +12,7 @@ Build: Pentru web. E nevoie de instalarea vue.js-ului si initializarea unui serv
 
 Foloseste: firebase database, vue.js, CSS
 
-![](img-aplicatii/stud-manager.PNG)
+![](img-aplicatii/stud-manager.png)
 
 ### Folderul "player":
 
