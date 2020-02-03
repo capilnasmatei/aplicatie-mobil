@@ -40,4 +40,4 @@ https://javascript30.com/ - partea legata de progrss bar-ul melodiei
 
 https://www.youtube.com/watch?v=5lVQgZzLMHc - punct de plecare pentru aplicatia creata in Vue.js
 
-https://www.youtube.com/watch?v=Wy9q22isx3U&t=1286s - punct de plecare pentru aplicatia creata in Vue.js
+https://www.youtube.com/watch?v=Wy9q22isx3U&t=1286s - punct de plecare pentru aplicatia creata in Vue.js.
